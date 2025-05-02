@@ -2,6 +2,8 @@
 
 <p>Welcome to our café's 3D web application—a cutting-edge platform with a user-friendly interface featuring a circular menu, stunning gallery, music control, loading animation, and explore overlay. Developed using React for its modular architecture and styled with Tailwind CSS for a modern, responsive design. The application leverages 3D capabilities to enhance user interaction and visual appeal.</p>
 
+<h2>I have contributed in that project as a UI/UX designer</h2>
+
 <h2>Installation</h2>
 
 <ol>
